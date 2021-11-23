@@ -8067,6 +8067,6 @@
 			"platform":"linux",
 			"logo":"https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/intel.png",
 			"stackfile":"https://raw.githubusercontent.com/portainer/templates/master/stacks/fdo/docker-stack.yml"
-		}
+		},
 	]
 }
